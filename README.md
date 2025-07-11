@@ -17,18 +17,18 @@ Uma Web API RESTful desenvolvida com **ASP.NET Core**, que permite gerenciar liv
 
 ### Livros :
 
-GET -> /api/Livro/ListarLivros
-GET -> /api/Livro/BuscarLivroPorId/{id}
-GET -> /api/Livro/GetAllBookFromAutor/{id}
-POST -> /api/Livro/CriarLivro
-PUT -> /api/Livro/EditarLivro
-DELETE -> /api/Livro/ExcluirLivro/{id}
+GET -> /api/Livro/ListarLivros<br>
+GET -> /api/Livro/BuscarLivroPorId/{id}<br>
+GET -> /api/Livro/GetAllBookFromAutor/{id}<br>
+POST -> /api/Livro/CriarLivro<br>
+PUT -> /api/Livro/EditarLivro<br>
+DELETE -> /api/Livro/ExcluirLivro/{id}<br>
 
 ### Autores:
 
-GET -> /api/Autor/ListarAutores
-GET -> /api/Autor/BuscarAutorPorId/{id}
-GET -> /api/Autor/BuscarAutorPorIdLivro/{id}
-POST -> /api/Autor/CriarAutor
-DELETE -> /api/Autor/ExcluirAutor/{id}
-PUT -> /api/Autor/EditarAutor
+GET -> /api/Autor/ListarAutores<br>
+GET -> /api/Autor/BuscarAutorPorId/{id}<br>
+GET -> /api/Autor/BuscarAutorPorIdLivro/{id}<br>
+POST -> /api/Autor/CriarAutor<br>
+DELETE -> /api/Autor/ExcluirAutor/{id}<br>
+PUT -> /api/Autor/EditarAutor<br>
