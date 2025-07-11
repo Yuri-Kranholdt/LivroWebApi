@@ -7,8 +7,7 @@ Uma Web API RESTful desenvolvida com **ASP.NET Core**, que permite gerenciar liv
 ## Tecnologias Utilizadas
 
 - .NET 8.0 (ASP.NET Core)
-- Entity Framework Core (ou Dapper)
-- SQL Server
+- Entity Framework Core 
 - Swagger (documentação interativa)
 
 ---
